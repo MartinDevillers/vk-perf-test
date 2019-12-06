@@ -1,0 +1,52 @@
+280:            JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(1):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 560x280, frames 3
+280(10):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(14):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(15):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(16):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(17):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 560x280, frames 3
+280(18):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(2):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 560x280, frames 3
+280(20):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(21):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(24):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(26):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(27):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 280x280, frames 3
+280(28):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 280x280, frames 3
+280(29):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 280x280, frames 3
+280(30):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 560x280, frames 3
+280(32):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(33):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(34):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(35):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 560x280, frames 3
+280(37):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 280x280, frames 3
+280(38):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, comment: "AppleMark", progressive, precision 8, 560x280, frames 3
+280(39):        JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 560x280, frames 3
+280(4):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 144x144, segment length 16, progressive, precision 8, 560x280, frames 3
+280(5):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, comment: "Lavc57.43.100", progressive, precision 8, 560x280, frames 3
+280(6):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 560x280, frames 3
+280(7):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 280x280, frames 3
+280(8):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 240x240, segment length 16, progressive, precision 8, 560x280, frames 3
+280(9):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 560x280, frames 3
+600:            JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 600x600, frames 3
+600(1):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 600x600, frames 3
+600(2):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 600x600, frames 3
+600(3):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 600x600, frames 3
+600(4):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 600x600, frames 3
+600(5):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 600x600, frames 3
+600(6):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 600x600, frames 3
+600(7):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 1240x600, frames 3
+600(8):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 600x600, frames 3
+600(9):         JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 600x600, frames 3
+95:             PNG image data, 95 x 95, 8-bit colormap, non-interlaced
+280(11):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(12):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(13):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(19):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(22):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(23):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(25):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(3):         PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(31):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(36):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
+280(40):        PNG image data, 280 x 280, 8-bit colormap, non-interlaced
